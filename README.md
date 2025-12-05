@@ -1,2 +1,2 @@
 # Logistic Regression Model Implementation
-## Implementation of a Logistic Regression Model Using Mathematical Concepts Without High-Level Libraries
+## Implementation of a Logistic Regression Models Using Mathematical Concepts Without High-Level Libraries
